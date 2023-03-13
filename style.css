@@ -1,5 +1,5 @@
 .body{
-  background-image: url(img.jpg);
+ 
   text-align: center;
   font-family: bolder;
   font-size: 50px;
@@ -32,3 +32,9 @@
 .li{
   margin-right: 20px;
 }
+.div1{
+   background-image:url("img.jpg" } 
+   height:100vh;
+   width:100%;
+   background-size:cover;
+   background-repeat:no-repeat;
